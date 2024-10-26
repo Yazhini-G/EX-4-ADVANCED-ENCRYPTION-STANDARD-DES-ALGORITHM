@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/ba3abdac-09e9-414e-aaae-3dd7d8c75e3e)# EX-4-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
-
 ## Aim:
   To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
